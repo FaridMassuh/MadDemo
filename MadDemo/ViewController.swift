@@ -3,7 +3,7 @@
 //  MadDemo
 //
 //  Created by Farid Massuh on 2/3/20.
-//  Copyright © 2020 Farid Massuh. All rights reserved.
+//  Copyright © 2020 Farid Alejandro Massuh. All rights reserved.
 //
 
 import UIKit
