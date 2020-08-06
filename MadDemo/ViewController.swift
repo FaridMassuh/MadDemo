@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  MadDemo
 //
-//  Created by Farid on 2/3/20.
-//  Copyright © 2020 Farid. All rights reserved.
+//  Created by Farid Massuh on 2/3/20.
+//  Copyright © 2020 Farid Massuh. All rights reserved.
 //
 
 import UIKit
